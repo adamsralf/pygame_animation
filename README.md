@@ -1,2 +1,2 @@
 # pygame_animation
-A short "how to code" an animation with PyGame.
+A short "how to code an animation" with PyGame.
