@@ -1,6 +1,6 @@
 """Animation with pygame.
 
-A short program which shows how to implment an animation with PyGame.
+A short program which shows how to implement an animation with PyGame.
 """
 import pygame
 from pygame.constants import (
